@@ -73,6 +73,61 @@ func appHandler(w http.ResponseWriter, r *http.Request) {
   }  //. .  pageData
   
   
+    if pagePath == "/clients" {
+      pageTitle = "Clients Page"
+      pageList = pageList
+  }
+  
+    if pagePath == "/workouts" {
+      pageTitle = "Workouts Page"
+      pageList = pageList
+  }
+  
+    if pagePath == "/videos" {
+      pageTitle = "Videos Page"
+      pageList = pageList
+  }
+  
+    if pagePath == "/gym-page" {
+      pageTitle = "Gym Page"
+      pageList = pageList
+  }
+  
+  
+  
+    if pagePath == "/splash" {
+      pageTitle = "Splash Page"
+      pageList = pageList
+  }
+  
+    if pagePath == "/discord" {
+      pageTitle = "Discord App Page"
+      pageList = pageList
+  }
+  
+    if pagePath == "/facebook" {
+      pageTitle = "Facebook App Page"
+      pageList = pageList
+  }
+  
+  
+  
+    if pagePath == "/flutter" {
+      pageTitle = "Flutter Page"
+      pageList = pageList
+  }
+  
+    if pagePath == "/desktop" {
+      pageTitle = "Desktop App Page"
+      pageList = pageList
+  }
+  
+    if pagePath == "/html-app" {
+      pageTitle = "HTML-App Page"
+      pageList = pageList
+  }
+  
+  
   pageFilePath := template.Must(template.ParseFiles("layout_main_page.html"))
   pageFilePath.Execute(w, pageData)
   
