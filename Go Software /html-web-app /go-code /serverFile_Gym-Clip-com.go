@@ -90,6 +90,19 @@ func main() {
   http.HandleFunc("/", indexHandler)
   http.HandleFunc("/account", indexHandler)
   http.HandleFunc("/profile", indexHandler)
+  
+  http.HandleFunc("/clients", indexHandler)
+  http.HandleFunc("/workouts", indexHandler)
+  http.HandleFunc("/videos", indexHandler)
+  http.HandleFunc("/gym-page", indexHandler)
+  
+  http.HandleFunc("/splash", indexHandler)
+  http.HandleFunc("/discord", indexHandler)
+  http.HandleFunc("/facebook", indexHandler)
+  
+  http.HandleFunc("/flutter", indexHandler)
+  http.HandleFunc("/desktop", indexHandler)
+  http.HandleFunc("/html-app", indexHandler)
 
 
 
