@@ -1,16 +1,4 @@
-# Gym-Clip-com ~
-
-package main
-
-
-
-import (
-    
-    
-)
-
-
-func # Gym-Clip.com ~
+# Gym-Clip.com ~
 
 package main
 
