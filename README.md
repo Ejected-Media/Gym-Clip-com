@@ -1,4 +1,4 @@
-# Gym-Clip-com
+# Gym-Clip.com
 - New Development °
 
 
@@ -10,5 +10,5 @@ https://github.com/Ejected-Media/Gym-Clip-com
 
 __ `  ` ~
 
-~ Pickball Magazine { brand } ~
-_ ` Sponsorship by Gym-Clip-com ° 
+~ Pickball Magazine { brand } ~  
+_ ` Sponsorship by Gym-Clip.com ° 
