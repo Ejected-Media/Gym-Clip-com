@@ -18,6 +18,7 @@ __ ` ... ` ~
 
 ~ Sports Apparel ~
 - { Sponsorship Brand }
+- Golf, Tennis, Ski, Hiking
 
 ---   
 
