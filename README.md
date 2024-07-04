@@ -31,3 +31,15 @@ __ ` ... ` ~
 __ ` ... ` ~
 
 ~ user // membership, login registration system ~
+
+---  
+
+__ ` ... ` ~
+
+~ Fitness Trainer // Coach ~ Verification and Managment System ~
+
+--- 
+
+__ ` ... ` ~
+
+--- 
