@@ -18,7 +18,7 @@ __ ` ... ` ~
 
 ~ Sports Apparel ~
 - { Sponsorship Brand }
-- Golf, Tennis, Ski, Hiking
+- Golf, Tennis, Ski, Hiking °
 
 ---   
 
@@ -41,5 +41,9 @@ __ ` ... ` ~
 --- 
 
 __ ` ... ` ~
+
+~ Office Gear, branded °
+~ as www.Gym-Clip.com °
+~ Mouse Pads, Desk Bags, Notebooks °
 
 --- 
