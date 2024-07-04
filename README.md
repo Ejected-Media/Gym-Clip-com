@@ -8,7 +8,14 @@ http://www.gym-clip.com/
 https://github.com/Ejected-Media/Gym-Clip-com 
 
 
-__ `  ` ~
+__ ` ... ` ~
 
 ~ Pickball Magazine { brand } ~  
 _ ` Sponsorship by Gym-Clip.com ° 
+
+--- 
+
+__ ` ... ` ~
+
+~ Sports Apparel ~
++ { Sponsorship Brand }
